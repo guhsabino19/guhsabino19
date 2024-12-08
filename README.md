@@ -14,6 +14,7 @@
   <img align="center" alt="Sabino-CSS" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="center" alt="Sabino-HTML" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" alt="Sabino-Python" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="right" alt="Sabino-GIF" height= "150" widht= "100" src="https://github.com/user-attachments/assets/2eb8a3c9-0635-4a28-a846-8e425b963120" />
 </div>
 
 ##
